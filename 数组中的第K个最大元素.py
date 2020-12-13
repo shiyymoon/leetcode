@@ -58,5 +58,3 @@ right = len(nums)-1
 quickSort(nums,left,right)
 print(nums)
 """
-#堆排序
-def heapSort():
